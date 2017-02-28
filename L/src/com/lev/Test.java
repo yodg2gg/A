@@ -10,5 +10,8 @@ public class Test {
 	public void a(){
 		
 	}
+	public void b(){
+		
+	}
 
 }
