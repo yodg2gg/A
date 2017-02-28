@@ -13,5 +13,9 @@ public class Test {
 	public void b(){
 		
 	}
+	
+	public void c(){
+		
+	}
 
 }
